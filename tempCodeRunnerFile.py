@@ -1,2 +1,1 @@
-for span in spans: 
-#     print(span.string)
+#start the webscrapping
